@@ -169,7 +169,6 @@ void CMFCChatClientDlg::OnBnClickedDisconnectBtn()
 {
 	// TODO: 在此添加控件通知处理程序代码
 	TRACE("##OnBnClickedDisconnectBtn");
-	TRACE("##2222OnBnClickedDisconnectBtn");
 
 
 }
